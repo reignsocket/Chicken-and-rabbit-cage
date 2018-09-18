@@ -23,8 +23,8 @@ Problem solving
 
 Common problems in implementation  
 This is a mathematical calculation problem. There are several cases of error:  
-Because the analysis of the problem is not clear, the wrong calculation formula is given;  
-Without mathematical methods, try to solve the problem by enumerating the number of all chickens and rabbits, causing timeouts;  
-Try to store all the inputs first, then output them, the open array is too small, and the factor group is out of bounds to generate a running error;
-A newline is missing at the end of each line of output;  
+1）Because the analysis of the problem is not clear, the wrong calculation formula is given;  
+2）Without mathematical methods, try to solve the problem by enumerating the number of all chickens and rabbits, causing timeouts;  
+3）Try to store all the inputs first, then output them, the open array is too small, and the factor group is out of bounds to generate a running error;
+4）A newline is missing at the end of each line of output;  
 Unfamiliar with the input and output syntax leads to infinite loops or grammatical errors.  
